@@ -1,0 +1,1 @@
+This is a script to, as the name suggests, generate emails. It was part of a my capstone project for the Google coursera course Automate IT workflows with Python. It took information fron a fictional fruit store and generated an inventory email. 
